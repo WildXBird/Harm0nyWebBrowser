@@ -17,8 +17,4 @@ Harm0nyWebBrowser 是新一代的智慧网络浏览器，支持使用JS、HTML�
 
 ## feature
 -   [ ] 0秒启动
--   [x] 网络通信
--   [x] JS引擎
 -   [x] 排版引擎
--   [x] 扩展组件
--   [x] 媒体支持
